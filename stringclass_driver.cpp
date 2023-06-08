@@ -23,7 +23,7 @@ int main()
 		<< "****************************************" << endl;
 	
 	cout << "****************************************" << endl
-		<< "Test#3: tesing palindrome\n"
+		<< "Test#3: testing palindrome\n"
 		<< "****************************************" << endl;
 	string response = "Y";
 	string ss;
